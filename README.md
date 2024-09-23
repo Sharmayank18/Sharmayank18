@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Sharmayank18
-- 👀 I’m interested in learning ethical hacking.
-- 🌱 I’m currently learning web development.
+- 🌱 I’m currently Pursuing Btech Cse.
 - 📫 How to reach me (gmail:sharmayank18@gmail.com).
 
 <!---
